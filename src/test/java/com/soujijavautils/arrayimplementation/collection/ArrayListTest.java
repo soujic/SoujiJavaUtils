@@ -8,6 +8,7 @@ import org.junit.Test;
  */
 public class ArrayListTest extends TestCase {
 
+	@Test
     public void testSize() throws Exception {
 
     }
