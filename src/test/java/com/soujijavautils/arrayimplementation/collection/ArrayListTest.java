@@ -1,14 +1,12 @@
 package com.soujijavautils.arrayimplementation.collection;
 
 import junit.framework.TestCase;
-import org.junit.Test;
 
 /**
  * Created by soujanya
  */
 public class ArrayListTest extends TestCase {
 
-	@Test
     public void testSize() throws Exception {
 
     }
