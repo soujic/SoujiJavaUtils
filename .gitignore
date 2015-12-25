@@ -1,4 +1,14 @@
-/*.iml
-/*/.idea/
-/*/tatget/
+*.iml
+tatget/
+/.idea
+/SoujiJavaUtils.iml
+/.idea/.name
+/.idea/compiler.xml
+/.idea/copyright
+/.idea/libraries
+/.idea/misc.xml
+/.idea/modules.xml
+/.idea/vcs.xml
+/.idea/workspace.xml
+/.idea/encodings.xml
 .idea/
